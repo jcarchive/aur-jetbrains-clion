@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Version=2022.1
+
+Name=Clion
+GenericName=C++/C IDE
+
+Icon=/usr/share/jetbrains-clion/bin/clion.png
+Comment=A cross-platform IDE for C and C++
+Keywords=development;cpp;c;ide;cmake;
+Categories=Development;IDE;
+
+Terminal=false
+StartupNotify=true
+StartupWMClass=jetbrains-clion
+X-MultipleArgs=false
+Exec=/usr/share/jetbrains-clion/bin/clion.sh
